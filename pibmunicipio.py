@@ -20,7 +20,7 @@ import folium # plotting library
 
 os.chdir('C:\\pibmunic')
 pibm = pd.read_excel ('pib/PIB MUNICIPIOS 2010 2016.xlsx', sheet_name='PIB_MUNICIPIOS')
-pibm.head(5)
+pibm.dtypes
 
 pibm.columns
 
