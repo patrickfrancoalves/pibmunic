@@ -1,0 +1,17 @@
+,feature_importances,features
+8,0.849262,ln_filiais
+6,0.03725826,ln_idade
+5,0.020131962,ln_capsoc
+11,0.01695419,ln_juros
+7,0.01645722,ln_contratos
+9,0.014504511,ln_sociosage
+14,0.012706286,ln_vlrcontrato
+12,0.011513414,ln_amortizacao
+13,0.009916691,ln_carencia
+15,0.0057340097,ln_vlrdesembolso
+10,0.005561381,ln_qtdsocios
+0,0.0,EMPRESA_PUBLICA
+1,0.0,INDIRETA
+2,0.0,INOVACAO
+3,0.0,TESOURO
+4,0.0,SOCIO_PJ
