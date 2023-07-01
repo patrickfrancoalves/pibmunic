@@ -1,4 +1,4 @@
-LIBNAME REC "/dados/RISCO/Modelagem_Nas/Risco_de_Credito/Fraude/Receita";
+
 
 
 PROC SQL NOPRINT;
@@ -133,3 +133,6 @@ BY RISCOBC;
 OUTPUT OUT=DIST 
 SUM(VAR)=VAR_ MEAN(PROB)=PROB MEAN(PD)=PD;
 RUN;
+
+
+
