@@ -1,0 +1,5 @@
+jupyter notebook  --notebook-dir  C:/Users/patrick.franco/Documents/GitHub/pibmunic/CEPAL/Produto 04
+
+jupyter notebook  --notebook-dir  C:/Users/patrick.franco/Documents/GitHub/spread
+
+jupyter notebook  --notebook-dir  C:/Users/patrick.franco/Documents/GitHub/pibmunic
